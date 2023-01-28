@@ -30,11 +30,15 @@
   <img alt="figma" height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="canva" height="20" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img alt="hotjar" height="20" src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
+ - Here are my code challenge profiles: 
+  <a href="https://www.codewars.com/users/AnnaGuk"><img alt="codewars" src="https://www.codewars.com/users/AnnaGuk/badges/micro"/></a>
+  <a href="https://app.codesignal.com/profile/anna60"><img width="100" alt="codesignal" src="https://app.codesignal.com/img/logos/logo_white.svg" /></a>
  - Here's how to get in touch: 
   <a href="https://www.linkedin.com/in/anna-g-65b76b57/"><img alt="linkedin" width="30" src="https://user-images.githubusercontent.com/39804342/184511064-14ac5177-ae45-4185-b715-453bdbef81c6.png"/></a>
   <a href="https://www.facebook.com/flygirl.anna"><img alt="facebook" width="30" src="https://user-images.githubusercontent.com/39804342/184511142-0f2257eb-0671-4943-b100-7872d2f4286b.png"/></a>
   <a href="https://www.instagram.com/anna.the.procrastinator/"><img alt="instagram" width="30" src="https://user-images.githubusercontent.com/39804342/184511173-4021a203-ee08-437c-8660-92f09ea45596.png"/></a>
   <a href="mailto:guk.anna1989@gmail.com"><img alt="instagram" width="30" src="https://user-images.githubusercontent.com/39804342/184511198-e3ed72e8-5d86-42ac-812d-cb40d2e03af8.png"/></a>
+ 
   
 
  
